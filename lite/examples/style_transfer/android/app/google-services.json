@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "687745471192",
+    "project_id": "tflite-style-transfer",
+    "storage_bucket": "tflite-style-transfer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:687745471192:android:7b90903027558d67513dad",
+        "android_client_info": {
+          "package_name": "org.tensorflow.lite.examples.styletransfersampleUVA"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "687745471192-turlmoinjl1sol768lg10tv2ib3tmr9i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2AaS9wRu0WhN_KgN5w7upe3HZCOv4gVQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "687745471192-turlmoinjl1sol768lg10tv2ib3tmr9i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
